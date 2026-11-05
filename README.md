@@ -1,13 +1,9 @@
-# HR-Attrition-Analysis
+# Scale Flow: SaaS Churn Analysis
 **Business Problem**
 
-Employee attrition is one of the most pressing challenges facing HR teams. Every departure increases hiring and training costs, disrupts productivity, and lowers the morale of the people who stay. Without a clear picture of why employees leave, organizations end up reacting to turnover instead of preventing it.
+Scale Flow was growing fast, but customers were leaving faster than before. Churn rose 13.76% year-over-year, and 2025 was the worst year on record. Leadership needed to know where customers were leaving, why, and what to fix first.
 
-**This project set out to answer three questions:**
-
-Where is attrition most concentrated across job roles, career levels, and demographics?
-Why are employees leaving, and how do compensation, growth opportunities, travel, and workload contribute?
-What can the company do to improve retention?
+This project analyzes three years of SaaS business data to find the root causes of churn across customer segments, acquisition channels, regions, industries, and payment plans, then turns the findings into prioritized recommendations for the next 6 months.
 
 **Tools Used**
 Power Query: data cleaning and transformation
