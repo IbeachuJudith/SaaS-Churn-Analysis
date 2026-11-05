@@ -1,4 +1,4 @@
-<img width="1441" height="792" alt="image" src="https://github.com/user-attachments/assets/f2361682-1c17-470e-8bc6-8558a6811a83" /># Scale Flow: SaaS Churn Analysis
+# Scale Flow: SaaS Churn Analysis
 **Business Problem**
 
 Scale Flow was growing fast, but customers were leaving faster than before. Churn rose 13.76% year-over-year, and 2025 was the worst year on record. Leadership needed to know where customers were leaving, why, and what to fix first.
@@ -19,6 +19,8 @@ The dataset covers customer records, revenue, payment plans, acquisition channel
 3. Regional split. Port Harcourt and Enugu deliver strong revenue with low churn despite smaller customer bases, while Lagos has high churn despite strong volume.
 4. Healthcare is a concentrated risk. It is the highest-revenue industry, but its 29% churn rate puts that revenue in danger.
 5. Churn is business-wide. Every region, channel, and payment plan shows elevated churn, so this is a systemic problem rather than one weak segment.
+
+<img width="1433" height="796" alt="image" src="https://github.com/user-attachments/assets/5d7d924b-9d79-4caf-852f-fc11eab65ed8" />
 
 **Recommendations**
 1. Protect high-value revenue in Enterprise and Healthcare with stronger onboarding and early churn-signal monitoring.
